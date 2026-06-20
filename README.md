@@ -1,5 +1,12 @@
 # MLP MNIST CUDA
 
+Integrantes:
+- Iván Matthias Sardon Medina
+- Gabriela Santos
+- Jose Valdivia
+- Steffano Ballesteros
+- Diego Vasquez
+
 Proyecto educativo en C++17 y CUDA para entrenar y ejecutar una red neuronal
 MLP que reconoce digitos MNIST del 0 al 9 en Windows con GPU NVIDIA.
 
